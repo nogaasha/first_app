@@ -1,9 +1,9 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Ruby on Rails Tutorial: первое приложение
 
-Things you may want to cover:
+Это первое приложение для
+[*Ruby on Rails Tutorial*]
 
 * Ruby version 4
 
